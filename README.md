@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a game with OpenGL and OpenCV.
+- 🔭 I’m currently working on a Indoor localization system using WSN and UWB positioning.
 
-- 🌱 I’m currently learning programming language C++.
+- 🌱 I’m currently learning programming language Rust
 
 - 👯 I’m looking to collaborate on embedded projects!
 
